@@ -33,8 +33,8 @@ window.COIN_CONFIG = {
 
   // SOCIALS
   socials: {
-    x: "#",                                          // https://x.com/fifaworldcupsol
-    telegram: "#",                                   // https://t.me/fifaworldcupsol
+    x: "https://x.com/fifawccoin",
+    telegram: "#",                                   // https://t.me/fifawccoin
     dexscreener: "https://dexscreener.com/solana",   // replace with full pair URL after launch
     dextools: "https://www.dextools.io/app/en/solana" // replace with full pair URL after launch
   }
