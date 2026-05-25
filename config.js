@@ -21,10 +21,8 @@ window.COIN_CONFIG = {
     "So does this coin. 🌍⚽",
 
   // CONTRACT + TRADING
-  // After launch on pump.fun, paste the CA below and update the trade link.
-  // pump.fun trade URL format: https://pump.fun/coin/<CONTRACT_ADDRESS>
-  contractAddress: "CA WILL BE POSTED AT LAUNCH",
-  tradeLink: "https://pump.fun",
+  contractAddress: "4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump",
+  tradeLink: "https://pump.fun/coin/4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump",
 
   // TOKENOMICS (pump.fun fair launch defaults)
   totalSupply: "1,000,000,000",
@@ -35,7 +33,7 @@ window.COIN_CONFIG = {
   socials: {
     x: "https://x.com/fifawccoin",
     telegram: "#",                                   // https://t.me/fifawccoin
-    dexscreener: "https://dexscreener.com/solana",   // replace with full pair URL after launch
-    dextools: "https://www.dextools.io/app/en/solana" // replace with full pair URL after launch
+    dexscreener: "https://dexscreener.com/solana/4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump",
+    dextools: "https://www.dextools.io/app/en/solana/pair-explorer/4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump"
   }
 };
