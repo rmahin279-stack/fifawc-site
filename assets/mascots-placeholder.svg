@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <rect width="720" height="360" fill="#0a1f12"/>
+  <text x="20%" y="55%" font-size="120" text-anchor="middle" dominant-baseline="middle">🦌</text>
+  <text x="50%" y="55%" font-size="120" text-anchor="middle" dominant-baseline="middle">🐆</text>
+  <text x="80%" y="55%" font-size="120" text-anchor="middle" dominant-baseline="middle">🦅</text>
+  <text x="50%" y="92%" font-size="14" text-anchor="middle" fill="#9bb5a4" font-family="monospace" letter-spacing="3">DROP mascots.png IN /assets</text>
+</svg>
