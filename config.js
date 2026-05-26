@@ -10,19 +10,21 @@ window.COIN_CONFIG = {
   logoEmoji: "🏆",
   tagline:
     "The official people's coin of the beautiful game. " +
-    "It launched fairly on pump.fun. No team. No presale. No insiders. " +
+    "It launches fairly on pump.fun. No team. No presale. No insiders. " +
     "Just one global community chasing the trophy. ⚽🏆",
 
   lore:
     "<strong>FIFA World Cup ($FIFAWC)</strong> is the memecoin for every fan on Earth. " +
-    "It launched fairly on <strong>pump.fun</strong>. No presale. No team allocation. " +
+    "It launches fairly on <strong>pump.fun</strong>. No presale. No team allocation. " +
     "No VC bags. Just billions of fans, one ball, and a meme that unites the " +
     "biggest sporting event on the planet. The World Cup belongs to the people. " +
     "So does this coin. 🌍⚽",
 
   // CONTRACT + TRADING
-  contractAddress: "4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump",
-  tradeLink: "https://pump.fun/coin/4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump",
+  // After launch on pump.fun, paste the CA below and update the trade link.
+  // pump.fun trade URL format: https://pump.fun/coin/<CONTRACT_ADDRESS>
+  contractAddress: "CA WILL BE POSTED AT LAUNCH",
+  tradeLink: "https://pump.fun",
 
   // TOKENOMICS (pump.fun fair launch defaults)
   totalSupply: "1,000,000,000",
@@ -33,7 +35,7 @@ window.COIN_CONFIG = {
   socials: {
     x: "https://x.com/fifawccoin",
     telegram: "#",                                   // https://t.me/fifawccoin
-    dexscreener: "https://dexscreener.com/solana/4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump",
-    dextools: "https://www.dextools.io/app/en/solana/pair-explorer/4izSk32dTYUr3xMAXnKxPXPBELXyTEboK7meTKedpump"
+    dexscreener: "https://dexscreener.com/solana",   // replace with full pair URL after launch
+    dextools: "https://www.dextools.io/app/en/solana" // replace with full pair URL after launch
   }
 };
